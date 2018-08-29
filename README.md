@@ -1,9 +1,11 @@
 # CatConnect
 
 Spring Quarter 2018
-DTC Section 14
-Team 4
+
+DTC Section 14, Team 4
+
 Drew Kersnar, Beth Mallon, Jean Selep, Jack Wiig
+
 
 The purpose of CatConnect is to detect if employees are currently in the office and to mark them "here" or "not here". The client specified that they would prefer an automatic system that requires no daily input to track: something that would run in the background.
 
